@@ -5,7 +5,7 @@ color-scale.jsは、エクセルの「カラースケール」機能をHTML上�
 # 活用例
 
 集計表のデータ分布に合わせて背景色を動的に変更することで、視覚的にデータ分布の傾向を理解しやすくなります。
-おすすめの使い方や設定した方がいいオプションを[ブログ]("https://rooter.jp/programming/javascript-color-scale/")にまとめています。
+おすすめの使い方や設定した方がいいオプションを[ブログ](https://rooter.jp/programming/javascript-color-scale/)にまとめています。
 
 ▼rooterでの活用例
 <img src="./images/sample.png" alt="color-scale.js活用例">
